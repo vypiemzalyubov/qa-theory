@@ -1,4 +1,5 @@
-[**TCP vs UDP**](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
+**Протоколы TCP и UDP**
+- [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
 - [TCP и UDP, или Два столпа Интернета](https://habr.com/ru/articles/711578/)
 - [TCP против UDP или будущее сетевых протоколов](https://habr.com/ru/companies/oleg-bunin/articles/461829/)
 - [Когда TCP быстрее UDP](https://habr.com/ru/companies/ruvds/articles/598615/)
