@@ -9,3 +9,7 @@
 
 **Системы очередей**
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
+
+**CDN**
+
+- [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
