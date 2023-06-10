@@ -13,3 +13,4 @@
 **CDN**
 
 - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
+- [Amazon Web Services – CloudFront](https://coderlessons.com/tutorials/veb-razrabotka/izuchite-amazon-web-services/amazon-web-services-cloudfront)
