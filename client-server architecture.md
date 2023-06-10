@@ -11,6 +11,5 @@
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 
 **CDN**
-
-- [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
 - [Amazon Web Services – CloudFront](https://coderlessons.com/tutorials/veb-razrabotka/izuchite-amazon-web-services/amazon-web-services-cloudfront)
+- [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
