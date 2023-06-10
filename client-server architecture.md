@@ -7,9 +7,15 @@
 - [На замену TCP: обсуждение протокола QUIC](https://habr.com/ru/companies/vasexperts/articles/509630/)
 - [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
 
-**Системы очередей**
+**Брокеры сообщений, Системы очередей**
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
+- [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
+- [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/companies/yandex_praktikum/articles/700608/)
 
 **CDN**
 - [Amazon Web Services – CloudFront](https://coderlessons.com/tutorials/veb-razrabotka/izuchite-amazon-web-services/amazon-web-services-cloudfront)
 - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
+
+**Методологии разработки**
+- [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
+- [Trunk Based Development — кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
