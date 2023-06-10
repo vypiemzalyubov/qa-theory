@@ -14,7 +14,7 @@
 - [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
 
 **CDN**
-- [Amazon Web Services - CloudFront](https://coderlessons.com/tutorials/veb-razrabotka/izuchite-amazon-web-services/amazon-web-services-cloudfront)
+- [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
 - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
 
 **Брокеры сообщений, cистемы очередей**
