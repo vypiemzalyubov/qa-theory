@@ -20,6 +20,9 @@
 **API**
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
 
+**Авторизация**
+- [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
+
 **Брокеры сообщений, cистемы очередей**
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
