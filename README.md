@@ -21,12 +21,17 @@
 
 **API**
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
+- [REST API Best Practices](https://habr.com/ru/articles/351890/)
 
 **WEB**
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
   
 **Авторизация**
 - [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
+
+**Linux**
+- [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
+- [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/articles/481398/)
 
 **Метрики**
 - [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
@@ -48,6 +53,7 @@
 - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
 - [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
+- [Что такое транзакция](https://habr.com/ru/articles/537594/)
 
 **Тестирование**
 - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
@@ -56,19 +62,19 @@
 - [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
 - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
 - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
+- [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
 - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
 - [A/B тест — это просто](https://habr.com/ru/articles/233911/)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+- [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
 
 **Техники тест-дизайна**
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
-  
-[Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
 
-[ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
-
-[Что такое адаптивный дизайн, и почему адаптивная верстка сайта дороже?](https://vc.ru/design/166963-chto-takoe-adaptivnyy-dizayn-i-pochemu-adaptivnaya-verstka-sayta-dorozhe)
-
-[Плейсхолдеры — зло](https://habr.com/ru/articles/235117/)
-
-[10 занимательных задач](https://habr.com/ru/articles/228489/)
+**Другое**  
+- [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
+- [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
+- [Что такое адаптивный дизайн, и почему адаптивная верстка сайта дороже?](https://vc.ru/design/166963-chto-takoe-adaptivnyy-dizayn-i-pochemu-adaptivnaya-verstka-sayta-dorozhe)
+- [Плейсхолдеры — зло](https://habr.com/ru/articles/235117/)
+- [10 занимательных задач](https://habr.com/ru/articles/228489/)
+- [Регулярные выражения (regexp) — основы](https://habr.com/ru/articles/545150/)
