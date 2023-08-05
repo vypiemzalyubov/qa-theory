@@ -12,6 +12,7 @@
 - [Основы компьютерных сетей. Тема №3. Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/articles/308636/)
 - [На замену TCP: обсуждение протокола QUIC](https://habr.com/ru/companies/vasexperts/articles/509630/)
 - [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
+- [Whois: практическое руководство пользователя](https://habr.com/ru/articles/165869/)
 
 **CDN**
 - [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
@@ -39,7 +40,12 @@
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
 
 **CI/CD**
+- [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
+
+**Базы данных**
+- [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
+- [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
 
 **Тестирование**
 - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
@@ -47,4 +53,5 @@
 - [Что должен знать тестировщик бэкенда](https://habr.com/ru/articles/491188/)
 - [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
 - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
+- [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
 - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
