@@ -38,8 +38,13 @@
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
 
-**Тестирование**
-- [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
-
 **CI/CD**
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
+
+**Тестирование**
+- [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
+- [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
+- [Что должен знать тестировщик бэкенда](https://habr.com/ru/articles/491188/)
+- [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
+- [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
+- [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
