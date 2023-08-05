@@ -47,6 +47,7 @@
 **Базы данных**
 - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
+- [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
 
 **Тестирование**
 - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
@@ -63,5 +64,11 @@
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
   
 [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
+
+[ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
+
+[Что такое адаптивный дизайн, и почему адаптивная верстка сайта дороже?](https://vc.ru/design/166963-chto-takoe-adaptivnyy-dizayn-i-pochemu-adaptivnaya-verstka-sayta-dorozhe)
+
+[Плейсхолдеры — зло](https://habr.com/ru/articles/235117/)
 
 [10 занимательных задач](https://habr.com/ru/articles/228489/)
