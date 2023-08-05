@@ -4,7 +4,8 @@
   <img src="http://sun9-1.userapi.com/s/v1/if1/TssEsVjQ5EHnj9RERY3kWXaPk1fZiCuRYJgssvUKYmSQ4wFm94AQyyaKLbZ9gVZOTrYCbA.jpg?size=604x345&quality=96&type=album" width="100"/>
 </div>
 
-**Протоколы TCP и UDP**
+**Сетевые протоколы**
+- [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
 - [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
 - [TCP и UDP, или Два столпа Интернета](https://habr.com/ru/articles/711578/)
 - [TCP против UDP или будущее сетевых протоколов](https://habr.com/ru/companies/oleg-bunin/articles/461829/)
@@ -55,3 +56,12 @@
 - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
 - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
 - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
+- [A/B тест — это просто](https://habr.com/ru/articles/233911/)
+- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+
+**Техники тест-дизайна**
+- [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
+  
+[Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
+
+[10 занимательных задач](https://habr.com/ru/articles/228489/)
