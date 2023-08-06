@@ -51,6 +51,7 @@
 
 **Базы данных**
 - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
+- [Курс по SQL от SQL Academy. Теория](https://github.com/SQL-Academy/ru.sql-academy)
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
 - [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
 - [Что такое транзакция](https://habr.com/ru/articles/537594/)
