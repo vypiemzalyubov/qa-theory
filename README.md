@@ -33,6 +33,9 @@
 **Linux**
 - [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
 - [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/articles/481398/)
+- [Как работать с curl в Windows](https://habr.com/ru/companies/ruvds/articles/699226/)
+- [SSH с высоты птичьего полёта, или разгребаем кучи ключей](https://habr.com/ru/articles/747080/)
+- [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
 
 **Метрики**
 - [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
