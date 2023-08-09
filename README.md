@@ -4,6 +4,13 @@
   <img src="http://sun9-1.userapi.com/s/v1/if1/TssEsVjQ5EHnj9RERY3kWXaPk1fZiCuRYJgssvUKYmSQ4wFm94AQyyaKLbZ9gVZOTrYCbA.jpg?size=604x345&quality=96&type=album" width="100"/>
 </div>
 
+**Linux**
+- [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
+- [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/articles/481398/)
+- [Как работать с curl в Windows](https://habr.com/ru/companies/ruvds/articles/699226/)
+- [SSH с высоты птичьего полёта, или разгребаем кучи ключей](https://habr.com/ru/articles/747080/)
+- [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
+
 **Сетевые протоколы**
 - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
 - [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
@@ -24,30 +31,10 @@
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
 - [REST API Best Practices](https://habr.com/ru/articles/351890/)
 
-**WEB**
-- [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
-  
-**Авторизация**
-- [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
-
-**Linux**
-- [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
-- [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/articles/481398/)
-- [Как работать с curl в Windows](https://habr.com/ru/companies/ruvds/articles/699226/)
-- [SSH с высоты птичьего полёта, или разгребаем кучи ключей](https://habr.com/ru/articles/747080/)
-- [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
-
-**Метрики**
-- [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
-
 **Брокеры сообщений, cистемы очередей**
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
 - [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/companies/yandex_praktikum/articles/700608/)
-
-**Методологии разработки**
-- [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
-- [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
 
 **CI/CD**
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
@@ -73,7 +60,12 @@
 - [Что такое транзакция](https://habr.com/ru/articles/537594/)
 - [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)
 - [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
+- [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
 
+**Методологии разработки**
+- [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
+- [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
+  
 **Тестирование**
 - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
 - [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
@@ -90,6 +82,9 @@
 **Техники тест-дизайна**
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
 
+**WEB**
+- [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
+
 **Другое**  
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
 - [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
@@ -98,3 +93,5 @@
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 - [Регулярные выражения (regexp) — основы](https://habr.com/ru/articles/545150/)
 - [«HTTP Strict-Transport-Security» или как обезопасить себя от атак «man-in-the-middle» и заставить браузер всегда использовать HTTPS](https://habr.com/ru/articles/216751/)
+- [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
+- [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
