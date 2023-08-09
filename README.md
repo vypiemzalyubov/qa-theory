@@ -97,3 +97,4 @@
 - [Плейсхолдеры — зло](https://habr.com/ru/articles/235117/)
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 - [Регулярные выражения (regexp) — основы](https://habr.com/ru/articles/545150/)
+- [«HTTP Strict-Transport-Security» или как обезопасить себя от атак «man-in-the-middle» и заставить браузер всегда использовать HTTPS](https://habr.com/ru/articles/216751/)
