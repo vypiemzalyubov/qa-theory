@@ -53,7 +53,14 @@
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
 
+**Docker**
+- [Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
+- [Руководство по Docker Compose для начинающих](https://habr.com/ru/companies/ruvds/articles/450312/)
+- [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
+- [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
+
 **Kubernetes**
+- [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
 - [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
