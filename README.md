@@ -53,6 +53,11 @@
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
 
+**Kubernetes**
+- [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
+- [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+- [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
+
 **Базы данных**
 - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
 - [Курс по SQL от SQL Academy. Теория](https://github.com/SQL-Academy/ru.sql-academy)
@@ -85,4 +90,3 @@
 - [Плейсхолдеры — зло](https://habr.com/ru/articles/235117/)
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 - [Регулярные выражения (regexp) — основы](https://habr.com/ru/articles/545150/)
-- [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
