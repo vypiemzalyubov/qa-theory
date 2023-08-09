@@ -85,3 +85,4 @@
 - [Плейсхолдеры — зло](https://habr.com/ru/articles/235117/)
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 - [Регулярные выражения (regexp) — основы](https://habr.com/ru/articles/545150/)
+- [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
