@@ -97,3 +97,4 @@
 - [«HTTP Strict-Transport-Security» или как обезопасить себя от атак «man-in-the-middle» и заставить браузер всегда использовать HTTPS](https://habr.com/ru/articles/216751/)
 - [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
 - [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
+- [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
