@@ -47,6 +47,7 @@
 - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
 - [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
 - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
+- [Docker для начинающих + практический опыт](https://stepik.org/course/123300/syllabus)
 
 **Kubernetes**
 - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
