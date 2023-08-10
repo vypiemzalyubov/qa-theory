@@ -55,15 +55,16 @@
 - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
 
 **Базы данных**
-- [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
-- [Курс по SQL от SQL Academy. Теория](https://github.com/SQL-Academy/ru.sql-academy)
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
 - [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
 - [Что такое транзакция](https://habr.com/ru/articles/537594/)
 - [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)
 - [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
 - [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
-
+- [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
+- [Курс по SQL от SQL Academy. Теория](https://github.com/SQL-Academy/ru.sql-academy)
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
+  
 **Методологии разработки**
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
