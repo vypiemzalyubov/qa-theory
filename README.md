@@ -11,6 +11,7 @@
 - [Что происходит, когда запускаешь «Hello World» в Linux](https://habr.com/ru/companies/ruvds/articles/753506/)
 - [SSH с высоты птичьего полёта, или разгребаем кучи ключей](https://habr.com/ru/articles/747080/)
 - [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
+- [Введение в Linux. Stepik](https://stepik.org/course/73/info)
 
 **Сетевые протоколы**
 - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
@@ -47,13 +48,14 @@
 - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
 - [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
 - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
-- [Docker для начинающих + практический опыт](https://stepik.org/course/123300/syllabus)
+- [Docker для начинающих + практический опыт. Stepik](https://stepik.org/course/123300/info)
 
 **Kubernetes**
 - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
 - [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
+- [Kubernetes для пользователей. Stepik](https://stepik.org/course/99188/info)
 
 **Базы данных**
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
@@ -63,8 +65,8 @@
 - [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
 - [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
 - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
-- [Курс по SQL от SQL Academy. Теория](https://github.com/SQL-Academy/ru.sql-academy)
-- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
+- [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
+- [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
   
 **Методологии разработки**
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
