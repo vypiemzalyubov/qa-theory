@@ -67,6 +67,7 @@
 - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
 - [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
 - [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
+- [SQL Tutorial. W3Schools](https://www.w3schools.com/sql/default.asp)
   
 **Методологии разработки**
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
