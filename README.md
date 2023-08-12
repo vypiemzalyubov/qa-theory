@@ -90,6 +90,7 @@
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
 
 **WEB**
+- [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
 
 **Другое**  
