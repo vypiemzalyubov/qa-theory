@@ -64,6 +64,7 @@
 - [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)
 - [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
 - [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
+- [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
 - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
 - [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
 - [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
