@@ -105,3 +105,5 @@
 - [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
 - [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
 - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
+- [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
+- [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
