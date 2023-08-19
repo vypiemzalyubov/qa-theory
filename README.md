@@ -107,3 +107,4 @@
 - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
 - [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
+- [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
