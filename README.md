@@ -143,7 +143,8 @@
 - [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 
-### Другое  
+### Другое
+- [QA_bible. VladislavEremeev](https://github.com/VladislavEremeev/QA_bible)
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
 - [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
 - [Что такое адаптивный дизайн, и почему адаптивная верстка сайта дороже?](https://vc.ru/design/166963-chto-takoe-adaptivnyy-dizayn-i-pochemu-adaptivnaya-verstka-sayta-dorozhe)
