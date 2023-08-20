@@ -4,6 +4,33 @@
   <img src="http://sun9-1.userapi.com/s/v1/if1/TssEsVjQ5EHnj9RERY3kWXaPk1fZiCuRYJgssvUKYmSQ4wFm94AQyyaKLbZ9gVZOTrYCbA.jpg?size=604x345&quality=96&type=album" width="100"/>
 </div>
 
+### Виды тестирования
+- [Виды и типы тестирования: подробный разбор](https://testengineer.ru/vidy-tipy-testirovaniya/)
+- [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
+- [Типы тестирования](https://beqa.pro/blog/testing-types/)
+- [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
+- [A/B тест — это просто](https://habr.com/ru/articles/233911/)
+- [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
+
+### Чек-листы, тест-кейсы, тест-планы
+- **Тестирование API**
+  - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
+  - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
+- [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
+- [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
+- [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
+- [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
+- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+- [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
+- [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
+
+### Техники тест-дизайна
+- [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
+
+### Методологии разработки
+- [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
+- [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
+
 ### Linux
 - [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
 - [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/articles/481398/)
@@ -72,33 +99,6 @@
 - [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
 - [SQL Tutorial. W3Schools](https://www.w3schools.com/sql/default.asp)
   
-### Методологии разработки
-- [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
-- [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
-  
-### Виды тестирования
-- [Виды и типы тестирования: подробный разбор](https://testengineer.ru/vidy-tipy-testirovaniya/)
-- [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
-- [Типы тестирования](https://beqa.pro/blog/testing-types/)
-- [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
-- [A/B тест — это просто](https://habr.com/ru/articles/233911/)
-- [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
-
-### Чек-листы, тест-кейсы, тест-планы
-- **Тестирование API**
-  - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
-  - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
-- [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
-- [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
-- [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
-- [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
-- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
-- [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
-- [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
-
-### Техники тест-дизайна
-- [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
-
 ### WEB
 - [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
