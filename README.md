@@ -131,6 +131,7 @@
   
 ### WEB
 - [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
+- [Бесплатный курс CSS: онлайн обучение с нуля. Code Basics](https://code-basics.com/ru/languages/css)
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
 
 ### Собеседование
