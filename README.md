@@ -76,6 +76,10 @@
 - [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
 - [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
 - [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
+- [Самое простое в мире руководство по MongoDB](https://www.software-testing.ru/library/testing/testing-for-beginners/3287-mongodb)
+- [MongoDB или как разлюбить SQL](https://habr.com/ru/articles/74144/)
+- [SQL to MongoDB Mapping Chart](https://www.mongodb.com/docs/manual/reference/sql-comparison/)
+- [Online SQL to MongoDB Converter Tool](https://www.javainuse.com/sql2mongo)
 - **Курсы**
   - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
   - [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
