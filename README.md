@@ -108,3 +108,4 @@
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
 - [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
+- [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
