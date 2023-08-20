@@ -33,6 +33,8 @@
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
 
 ### Методологии разработки
+- [Как методологии разработки программного обеспечения влияют на запуск IT-проекта?](https://leantech.ai/metodologii-razrabotki-programmnogo-obespecheniya)
+- [Ещё раз про семь основных методологий разработки](https://habr.com/ru/companies/edison/articles/269789/)
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
 
