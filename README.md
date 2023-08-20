@@ -16,13 +16,14 @@
 - **Тестирование API**
   - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
   - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
-- [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
-- [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
+- **Тестирование UI**
+  - [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
+  - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
+  - [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
+  - [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
 - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
 - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
-- [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
-- [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
 
 ### Техники тест-дизайна
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
