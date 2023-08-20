@@ -32,6 +32,7 @@
 **API**
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
 - [REST API Best Practices](https://habr.com/ru/articles/351890/)
+- [REST, что же ты такое?](https://systems.education/what-is-rest)
 
 **Брокеры сообщений, cистемы очередей**
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
