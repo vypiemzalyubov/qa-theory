@@ -22,8 +22,10 @@
   - [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
   - [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
 - **Тестирование баз данных**
+  - [Руководство по тестированию баз данных](https://senior.ua/articles/rukovodstvo-po-testirovaniyu-baz-dannyh)
   - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
   - [Тестирование реляционных баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3267-testing-with-relational-databases)
+  - [Тестирование баз данных. Getbug](http://getbug.ru/testirovanie-baz-dannyih/)
 - **Тестирование мобильных приложений**
   - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
   - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
@@ -70,6 +72,9 @@
 - [REST, что же ты такое?](https://systems.education/what-is-rest)
   
 ### Базы данных, SQL и NoSQL
+- [Основы правил проектирования базы данных](https://habr.com/ru/articles/514364/)
+- [Руководство по проектированию реляционных баз данных (15 частей)](https://habr.com/ru/articles/193136/)
+- [Как думать на SQL?](https://habr.com/ru/articles/305926/)
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
 - [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
 - [Что такое транзакция](https://habr.com/ru/articles/537594/)
@@ -77,9 +82,12 @@
 - [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
 - [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
 - [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
+- [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
 - [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
+- [2SQL.RU. Информационный ресурс о SQL](http://2sql.ru/)
 - [Что такое NoSQL?](https://aws.amazon.com/ru/nosql/)
 - [NoSQL базы данных: понимаем суть](https://habr.com/ru/articles/152477/)
+- [SQL и NoSQL: разбираемся в основных моделях баз данных](https://tproger.ru/translations/sql-nosql-database-models/)
 - [Самое простое в мире руководство по MongoDB](https://www.software-testing.ru/library/testing/testing-for-beginners/3287-mongodb)
 - [MongoDB или как разлюбить SQL](https://habr.com/ru/articles/74144/)
 - [SQL to MongoDB Mapping Chart](https://www.mongodb.com/docs/manual/reference/sql-comparison/)
@@ -88,7 +96,9 @@
   - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
   - [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
   - [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
+  - [SQL-Ex](https://www.sql-ex.ru/?Lang=0)
   - [SQL Tutorial. W3Schools](https://www.w3schools.com/sql/default.asp)
+  - [PostgreSQL Exercises](https://pgexercises.com/questions/basic/)
     
 ### Брокеры сообщений, cистемы очередей
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
