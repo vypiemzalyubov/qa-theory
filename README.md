@@ -21,8 +21,12 @@
   - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
   - [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
   - [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
-- [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
-- [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
+- **Тестирование баз данных**
+  - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
+  - [Тестирование реляционных баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3267-testing-with-relational-databases)
+- **Тестирование мобильных приложений**
+  - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
+  - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
 
 ### Техники тест-дизайна
