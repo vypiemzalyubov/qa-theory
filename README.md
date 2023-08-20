@@ -43,7 +43,8 @@
 - [Что происходит, когда запускаешь «Hello World» в Linux](https://habr.com/ru/companies/ruvds/articles/753506/)
 - [SSH с высоты птичьего полёта, или разгребаем кучи ключей](https://habr.com/ru/articles/747080/)
 - [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
-- [Введение в Linux. Stepik](https://stepik.org/course/73/info)
+- **Курсы**
+  - [Введение в Linux. Stepik](https://stepik.org/course/73/info)
 
 ### Сетевые протоколы
 - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
@@ -65,7 +66,22 @@
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
 - [REST API Best Practices](https://habr.com/ru/articles/351890/)
 - [REST, что же ты такое?](https://systems.education/what-is-rest)
-
+  
+### Базы данных и SQL
+- [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
+- [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
+- [Что такое транзакция](https://habr.com/ru/articles/537594/)
+- [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)
+- [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
+- [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
+- [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
+- [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
+- **Курсы**
+  - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
+  - [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
+  - [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
+  - [SQL Tutorial. W3Schools](https://www.w3schools.com/sql/default.asp)
+    
 ### Брокеры сообщений, cистемы очередей
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
@@ -82,27 +98,16 @@
 - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
 - [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
 - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
-- [Docker для начинающих + практический опыт. Stepik](https://stepik.org/course/123300/info)
+- **Курсы**
+  - [Docker для начинающих + практический опыт. Stepik](https://stepik.org/course/123300/info)
 
 ### Kubernetes
 - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
 - [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
-- [Kubernetes для пользователей. Stepik](https://stepik.org/course/99188/info)
-
-### Базы данных и SQL
-- [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
-- [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
-- [Что такое транзакция](https://habr.com/ru/articles/537594/)
-- [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)
-- [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
-- [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
-- [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
-- [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
-- [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
-- [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
-- [SQL Tutorial. W3Schools](https://www.w3schools.com/sql/default.asp)
+- **Курсы**
+  - [Kubernetes для пользователей. Stepik](https://stepik.org/course/99188/info)
   
 ### WEB
 - [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
