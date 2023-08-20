@@ -77,6 +77,7 @@
 - [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
 - [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
 - [Что такое NoSQL?](https://aws.amazon.com/ru/nosql/)
+- [NoSQL базы данных: понимаем суть](https://habr.com/ru/articles/152477/)
 - [Самое простое в мире руководство по MongoDB](https://www.software-testing.ru/library/testing/testing-for-beginners/3287-mongodb)
 - [MongoDB или как разлюбить SQL](https://habr.com/ru/articles/74144/)
 - [SQL to MongoDB Mapping Chart](https://www.mongodb.com/docs/manual/reference/sql-comparison/)
