@@ -45,6 +45,7 @@
 - [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/articles/481398/)
 - [Как работать с curl в Windows](https://habr.com/ru/companies/ruvds/articles/699226/)
 - [Что происходит, когда запускаешь «Hello World» в Linux](https://habr.com/ru/companies/ruvds/articles/753506/)
+- [Практические советы, примеры и туннели SSH](https://habr.com/ru/articles/435546/)
 - [SSH с высоты птичьего полёта, или разгребаем кучи ключей](https://habr.com/ru/articles/747080/)
 - [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
 - **Курсы**
