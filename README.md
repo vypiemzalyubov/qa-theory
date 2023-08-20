@@ -67,7 +67,7 @@
 - [REST API Best Practices](https://habr.com/ru/articles/351890/)
 - [REST, что же ты такое?](https://systems.education/what-is-rest)
   
-### Базы данных и SQL
+### Базы данных, SQL и NoSQL
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
 - [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
 - [Что такое транзакция](https://habr.com/ru/articles/537594/)
@@ -76,6 +76,7 @@
 - [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
 - [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
 - [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
+- [Что такое NoSQL?](https://aws.amazon.com/ru/nosql/)
 - [Самое простое в мире руководство по MongoDB](https://www.software-testing.ru/library/testing/testing-for-beginners/3287-mongodb)
 - [MongoDB или как разлюбить SQL](https://habr.com/ru/articles/74144/)
 - [SQL to MongoDB Mapping Chart](https://www.mongodb.com/docs/manual/reference/sql-comparison/)
