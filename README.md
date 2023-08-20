@@ -4,7 +4,7 @@
   <img src="http://sun9-1.userapi.com/s/v1/if1/TssEsVjQ5EHnj9RERY3kWXaPk1fZiCuRYJgssvUKYmSQ4wFm94AQyyaKLbZ9gVZOTrYCbA.jpg?size=604x345&quality=96&type=album" width="100"/>
 </div>
 
-**Linux**
+### Linux
 - [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
 - [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/articles/481398/)
 - [Как работать с curl в Windows](https://habr.com/ru/companies/ruvds/articles/699226/)
@@ -13,7 +13,7 @@
 - [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
 - [Введение в Linux. Stepik](https://stepik.org/course/73/info)
 
-**Сетевые протоколы**
+### Сетевые протоколы
 - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
 - [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
 - [TCP и UDP, или Два столпа Интернета](https://habr.com/ru/articles/711578/)
@@ -24,27 +24,27 @@
 - [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
 - [Whois: практическое руководство пользователя](https://habr.com/ru/articles/165869/)
 
-**CDN**
+### CDN
 - [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
 - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
 - [Модуль Nchan веб-сервера nginx. Работа с Websocket, EventSource (Server-Sent Events), Long-Polling](https://habr.com/ru/articles/354990/)
 
-**API**
+### API
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
 - [REST API Best Practices](https://habr.com/ru/articles/351890/)
 - [REST, что же ты такое?](https://systems.education/what-is-rest)
 
-**Брокеры сообщений, cистемы очередей**
+### Брокеры сообщений, cистемы очередей
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
 - [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/companies/yandex_praktikum/articles/700608/)
 
-**CI/CD**
+### CI/CD
 - [Что такое CI (Continuous Integration)](https://habr.com/ru/articles/508216/)
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
 
-**Docker**
+### Docker
 - [Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
 - [Руководство по Docker Compose для начинающих](https://habr.com/ru/companies/ruvds/articles/450312/)
 - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
@@ -52,14 +52,14 @@
 - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
 - [Docker для начинающих + практический опыт. Stepik](https://stepik.org/course/123300/info)
 
-**Kubernetes**
+### Kubernetes
 - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
 - [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
 - [Kubernetes для пользователей. Stepik](https://stepik.org/course/99188/info)
 
-**Базы данных**
+### Базы данных и SQL
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/articles/448072/)
 - [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
 - [Что такое транзакция](https://habr.com/ru/articles/537594/)
@@ -72,11 +72,11 @@
 - [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
 - [SQL Tutorial. W3Schools](https://www.w3schools.com/sql/default.asp)
   
-**Методологии разработки**
+### Методологии разработки
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
   
-**Виды тестирования**
+### Виды тестирования
 - [Виды и типы тестирования: подробный разбор](https://testengineer.ru/vidy-tipy-testirovaniya/)
 - [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
 - [Типы тестирования](https://beqa.pro/blog/testing-types/)
@@ -84,27 +84,26 @@
 - [A/B тест — это просто](https://habr.com/ru/articles/233911/)
 - [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
 
-**Чек-листы, тест-кейсы, тест-планы**  
+### Чек-листы, тест-кейсы, тест-планы
+- **Тестирование API**
+  - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
+  - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
 - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
-- [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
-- [Что должен знать тестировщик бэкенда](https://habr.com/ru/articles/491188/)
 - [Чек-лист тестирования WEB приложений](https://habr.com/ru/articles/542422/)
 - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
 - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
-- [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
-- [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
 - [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
 - [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
 
-**Техники тест-дизайна**
+### Техники тест-дизайна
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
 
-**WEB**
+### WEB
 - [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
 
-**Другое**  
+### Другое  
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
 - [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
 - [Что такое адаптивный дизайн, и почему адаптивная верстка сайта дороже?](https://vc.ru/design/166963-chto-takoe-adaptivnyy-dizayn-i-pochemu-adaptivnaya-verstka-sayta-dorozhe)
@@ -119,4 +118,6 @@
 - [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
 - [QA Roadmap](https://roadmap.sh/qa)
+- [Что должен знать тестировщик бэкенда](https://habr.com/ru/articles/491188/)
+- [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
 - [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
