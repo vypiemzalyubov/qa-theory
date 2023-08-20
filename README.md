@@ -77,6 +77,10 @@
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
   
 **Виды тестирования**
+- [Виды и типы тестирования: подробный разбор](https://testengineer.ru/vidy-tipy-testirovaniya/)
+- [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
+- [Типы тестирования](https://beqa.pro/blog/testing-types/)
+- [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
 - [A/B тест — это просто](https://habr.com/ru/articles/233911/)
 - [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
 
@@ -90,6 +94,7 @@
 - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
 - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+- [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
 - [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
 
 **Техники тест-дизайна**
