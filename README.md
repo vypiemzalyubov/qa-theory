@@ -50,6 +50,7 @@
 - [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
 - **Курсы**
   - [Введение в Linux. Stepik](https://stepik.org/course/73/info)
+  - [Основы командной строки. Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
 
 ### Сетевые протоколы
 - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
