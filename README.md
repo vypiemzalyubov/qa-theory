@@ -40,6 +40,7 @@
 - [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/companies/yandex_praktikum/articles/700608/)
 
 **CI/CD**
+- [Что такое CI (Continuous Integration)](https://habr.com/ru/articles/508216/)
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
 
