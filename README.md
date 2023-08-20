@@ -76,7 +76,11 @@
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
   
-**Тестирование**
+**Виды тестирования**
+- [A/B тест — это просто](https://habr.com/ru/articles/233911/)
+- [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
+
+**Чек-листы, тест-кейсы, тест-планы**  
 - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
 - [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
 - [Что должен знать тестировщик бэкенда](https://habr.com/ru/articles/491188/)
@@ -85,7 +89,6 @@
 - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
 - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
 - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
-- [A/B тест — это просто](https://habr.com/ru/articles/233911/)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
 - [Одиннадцатиклассница, или тестируем баги вёрстки](https://habr.com/ru/companies/2gis/articles/246831/)
 
