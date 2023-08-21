@@ -170,6 +170,7 @@
 - [Лёша Маршал](https://www.youtube.com/@leshamarshal)
 - [Artsiom Rusau QA Life](https://www.youtube.com/@rusau)
 - [Вадим Ксендзов](https://www.youtube.com/@vadim_ksendzov)
+- [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock)
 - [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk)
 - [Simple Automation](https://www.youtube.com/@simple_automation)
 - [Oleh Pendrak](https://www.youtube.com/@threadqa)
