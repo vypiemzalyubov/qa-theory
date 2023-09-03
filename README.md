@@ -33,6 +33,7 @@
   - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
   - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+- [Тестовая документация и анализ требований](https://habr.com/ru/companies/otus/articles/588923/)
 
 ### Техники тест-дизайна
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
