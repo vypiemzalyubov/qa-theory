@@ -56,7 +56,7 @@
   - [Основы командной строки. Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
 
 ### Сети
- - ### Сетевые протоколы
+ - #### Сетевые протоколы
    - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
    - [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
    - [TCP и UDP, или Два столпа Интернета](https://habr.com/ru/articles/711578/)
@@ -66,7 +66,7 @@
    - [На замену TCP: обсуждение протокола QUIC](https://habr.com/ru/companies/vasexperts/articles/509630/)
    - [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
    - [Whois: практическое руководство пользователя](https://habr.com/ru/articles/165869/)
- - ### CDN
+ - #### CDN
    - [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
    - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
    - [Модуль Nchan веб-сервера nginx. Работа с Websocket, EventSource (Server-Sent Events), Long-Polling](https://habr.com/ru/articles/354990/)
