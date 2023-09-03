@@ -140,6 +140,7 @@
 - [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habr.com/ru/articles/313938/)
 - [Figma. Paper Tiger's tips on developer handoff](https://www.figma.com/best-practices/tips-on-developer-handoff/)
 - [Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
+- [Макеты Figma для практики](https://t.me/true_figma)
 - **Курсы**
   - [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
   - [Бесплатный курс CSS: онлайн обучение с нуля. Code Basics](https://code-basics.com/ru/languages/css)
