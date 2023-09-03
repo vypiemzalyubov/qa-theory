@@ -137,6 +137,7 @@
 - **Курсы**
   - [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
   - [Бесплатный курс CSS: онлайн обучение с нуля. Code Basics](https://code-basics.com/ru/languages/css)
+  - [Flexbox Froggy. Тренажёр](https://flexboxfroggy.com/#ru)
 
 ### Собеседование
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
