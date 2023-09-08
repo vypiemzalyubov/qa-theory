@@ -53,9 +53,16 @@
 - [SSH с высоты птичьего полёта, или разгребаем кучи ключей](https://habr.com/ru/articles/747080/)
 - [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
 - [Управление службами Linux](https://losst.pro/upravlenie-sluzhbami-linux)
+- [LinuxCommand.org](http://linuxcommand.org/)
 - **Курсы**
   - [Введение в Linux. Stepik](https://stepik.org/course/73/info)
   - [Основы командной строки. Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
+  - [Введение в сетевые технологии. Stepik](https://stepik.org/course/58678/info)
+  - [Introduction to Linux. freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-linux/)
+  - [The Linux Foundation: Introduction to Linux. edX](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux)
+  - [Hands-on Introduction to Linux Commands and Shell Scripting. Coursera](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
+  - [Linux Journey](https://linuxjourney.com/)
+  - [Free CCNA 200-301 | Complete Course 2023. YouTube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 ### Сети
  - #### Сетевые протоколы
