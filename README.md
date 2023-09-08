@@ -158,13 +158,12 @@
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 
 ### Другое
-- [QA_bible. VladislavEremeev](https://github.com/VladislavEremeev/QA_bible)
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
 - [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
+- [Kibana. Использование языка запросов KQL при поиске логов](https://habr.com/ru/articles/758586/)
 - [Что такое адаптивный дизайн, и почему адаптивная верстка сайта дороже?](https://vc.ru/design/166963-chto-takoe-adaptivnyy-dizayn-i-pochemu-adaptivnaya-verstka-sayta-dorozhe)
 - [Плейсхолдеры — зло](https://habr.com/ru/articles/235117/)
 - [Редактируем CSV-файлы, чтобы не сломать данные](https://habr.com/ru/amp/publications/432906/)
-- [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
 - [Регулярные выражения (regexp) — основы](https://habr.com/ru/articles/545150/)
 - [«HTTP Strict-Transport-Security» или как обезопасить себя от атак «man-in-the-middle» и заставить браузер всегда использовать HTTPS](https://habr.com/ru/articles/216751/)
 - [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
@@ -174,7 +173,8 @@
 - [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
 - [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
-- [Современный учебник JavaScript](https://learn.javascript.ru/)
+- [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
+
 
 ### YouTube
 - [Heisenbug](https://www.youtube.com/@Heisenbugconf)
@@ -192,3 +192,8 @@
 - [Alex QA](https://www.youtube.com/@AlexQA)
 - [Serhii Hlivinskyi - QA START UP](https://www.youtube.com/@QASTARTUPITTrainingCenter)
 - [The Art of Development](https://www.youtube.com/@TheArtofDevelopment)
+
+### Книги
+- [QA_bible. VladislavEremeev](https://github.com/VladislavEremeev/QA_bible)
+- [Большой учебник по тестированию. QaRocks](https://qarocks.ru/big-software-testing-textbook/?amp=1)
+- [Современный учебник JavaScript](https://learn.javascript.ru/)
