@@ -165,6 +165,7 @@
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 
 ### Другое
+- [Секретные хаки VS Code](https://habr.com/ru/articles/435770/)
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
 - [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
 - [Kibana. Использование языка запросов KQL при поиске логов](https://habr.com/ru/articles/758586/)
