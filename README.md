@@ -43,6 +43,7 @@
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/companies/edison/articles/269789/)
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
+- [Опыт использования BDD](https://habr.com/ru/companies/haulmont/articles/459134/)
 
 ### Linux
 - [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
