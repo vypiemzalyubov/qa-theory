@@ -43,6 +43,7 @@
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/companies/edison/articles/269789/)
 - [TDD: методология разработки, которая изменила мою жизнь](https://habr.com/ru/companies/ruvds/articles/450316/)
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
+- [Что такое поведенческая разработка (BDD)?](https://www.loadview-testing.com/ru/blog/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-bdd/)
 - [Опыт использования BDD](https://habr.com/ru/companies/haulmont/articles/459134/)
 
 ### Linux
