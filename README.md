@@ -207,5 +207,6 @@
 - [Alex QA](https://www.youtube.com/@AlexQA)
 - [Serhii Hlivinskyi - QA START UP](https://www.youtube.com/@QASTARTUPITTrainingCenter)
 - [Senior Tester | Евгений Окулик](https://www.youtube.com/@SeniorTester)
+- [Диджитализируй!](https://www.youtube.com/@t0digital)
 - [The Art of Development](https://www.youtube.com/@TheArtofDevelopment)
 - [Kirill Semaev](https://www.youtube.com/@KirillSemaev)
