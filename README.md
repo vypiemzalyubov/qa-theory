@@ -162,13 +162,13 @@
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
 - [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
 - [QA Roadmap](https://roadmap.sh/qa)
+- [Developer Roadmaps](https://roadmap.sh/)
 - [Что должен знать тестировщик бэкенда](https://habr.com/ru/articles/491188/)
 - [Hard skills для входа в тестирование бэка](https://habr.com/ru/companies/inpglobal/articles/733380/)
 - [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 
 ### Другое
-- [Секретные хаки VS Code](https://habr.com/ru/articles/435770/)
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
 - [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/576756/)
 - [Kibana. Использование языка запросов KQL при поиске логов](https://habr.com/ru/articles/758586/)
