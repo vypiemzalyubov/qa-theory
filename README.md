@@ -159,6 +159,11 @@
   - [Бесплатный курс CSS: онлайн обучение с нуля. Code Basics](https://code-basics.com/ru/languages/css)
   - [Flexbox Froggy. Тренажёр](https://flexboxfroggy.com/#ru)
 
+### Automation
+- [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
+- [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
+- [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/articles/549450/)
+
 ### Собеседование
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
 - [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
@@ -186,13 +191,6 @@
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
 - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
-
-
-### Automation
-- [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
-- [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
-- [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/articles/549450/)
-
 
 ### Книги
 - [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
