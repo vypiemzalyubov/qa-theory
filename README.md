@@ -4,7 +4,7 @@
   <img src="http://sun9-1.userapi.com/s/v1/if1/TssEsVjQ5EHnj9RERY3kWXaPk1fZiCuRYJgssvUKYmSQ4wFm94AQyyaKLbZ9gVZOTrYCbA.jpg?size=604x345&quality=96&type=album" width="100"/>
 </div>
 
-### [Виды тестирования](https://github.com/vypiemzalyubov/qa-theory#%D0%B2%D0%B8%D0%B4%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) | [Тестовая документация](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F) | [Техники тест-дизайна](https://github.com/vypiemzalyubov/qa-theory#%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8-%D1%82%D0%B5%D1%81%D1%82-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0) | [Методологии разработки](https://github.com/vypiemzalyubov/qa-theory#%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8) | [Linux](https://github.com/vypiemzalyubov/qa-theory#linux) | [Сети](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%81%D0%B5%D1%82%D0%B8) | [API](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#api) | [Базы данных, SQL и NoSQL](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-sql-%D0%B8-nosql) | [Брокеры сообщений, cистемы очередей](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80%D1%8B-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9-c%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%B9) | [CI/CD](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#cicd) | [Docker](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#docker) | [Kubernetes](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#kubernetes) | [WEB](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#web) | [Automation](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#automation) | [Собеседование](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | [Другое](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B5) | [Книги](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8) | [YouTube](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#youtube)
+### [Виды тестирования](https://github.com/vypiemzalyubov/qa-theory#%D0%B2%D0%B8%D0%B4%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) | [Тестовая документация](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F) | [Техники тест-дизайна](https://github.com/vypiemzalyubov/qa-theory#%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8-%D1%82%D0%B5%D1%81%D1%82-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0) | [Методологии разработки](https://github.com/vypiemzalyubov/qa-theory#%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8) | [Linux](https://github.com/vypiemzalyubov/qa-theory#linux) | [Сети](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%81%D0%B5%D1%82%D0%B8) | [API](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#api) | [Базы данных, SQL и NoSQL](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-sql-%D0%B8-nosql) | [Брокеры сообщений, cистемы очередей](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80%D1%8B-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9-c%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%B9) | [CI/CD](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#cicd) | [WEB](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#web) | [Automation](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#automation) | [Собеседование](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | [Другое](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B5) | [Книги](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8) | [YouTube](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#youtube)
 
 
 ### Виды тестирования
@@ -130,25 +130,23 @@
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
 - **Курсы**
   - [Jenkins На Русском Языке. YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a) 
-
-### Docker
-- [Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
-- [Руководство по Docker Compose для начинающих](https://habr.com/ru/companies/ruvds/articles/450312/)
-- [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
-- [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
-- [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
-- [Docker с 0 до 100%. Всё, что нужно знать. RomNero](https://www.youtube.com/watch?v=O8N1lvkIjig)
-- **Курсы**
-  - [Docker для начинающих + практический опыт. Stepik](https://stepik.org/course/123300/info)
-
-### Kubernetes
-- [Основы Kubernetes](https://habr.com/ru/articles/258443/)
-- [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
-- [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
-- [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-- [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
-- **Курсы**
-  - [Kubernetes для пользователей. Stepik](https://stepik.org/course/99188/info)
+- #### Docker
+  - [Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
+  - [Руководство по Docker Compose для начинающих](https://habr.com/ru/companies/ruvds/articles/450312/)
+  - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
+  - [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
+  - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
+  - [Docker с 0 до 100%. Всё, что нужно знать. RomNero](https://www.youtube.com/watch?v=O8N1lvkIjig)
+  - **Курсы**
+    - [Docker для начинающих + практический опыт. Stepik](https://stepik.org/course/123300/info)
+- #### Kubernetes
+  - [Основы Kubernetes](https://habr.com/ru/articles/258443/)
+  - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
+  - [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
+  - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+  - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
+  - **Курсы**
+    - [Kubernetes для пользователей. Stepik](https://stepik.org/course/99188/info)
   
 ### WEB
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
