@@ -120,6 +120,7 @@
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
 - [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/companies/yandex_praktikum/articles/700608/)
+- [Построение распределенной системы очередей сообщений с RabbitMQ и Python](https://habr.com/ru/companies/otus/articles/761444/)
 
 ### CI/CD
 - [Что такое CI (Continuous Integration)](https://habr.com/ru/articles/508216/)
@@ -183,13 +184,21 @@
 - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
 - [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
-- [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
+- [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
+
+
+### Automation
+- [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
+- [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
+- [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/articles/549450/)
+
 
 ### Книги
 - [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
 - [QA_bible. VladislavEremeev](https://github.com/VladislavEremeev/QA_bible)
 - [Большой учебник по тестированию. QaRocks](https://qarocks.ru/big-software-testing-textbook/?amp=1)
+- [Список книг (по тестированию и не только) с отзывами](https://okiseleva.blogspot.com/2014/02/blog-post_6.html?m=1)
 - [Современный учебник JavaScript](https://learn.javascript.ru/)
 
 ### YouTube
