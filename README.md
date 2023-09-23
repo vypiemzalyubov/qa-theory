@@ -56,6 +56,7 @@
 - [Белые пятна в работе с SSH](https://habr.com/ru/companies/lodoss/articles/358800/)
 - [Управление службами Linux](https://losst.pro/upravlenie-sluzhbami-linux)
 - [LinuxCommand.org](http://linuxcommand.org/)
+- [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
 - **Курсы**
   - [Введение в Linux. Stepik](https://stepik.org/course/73/info)
   - [Основы командной строки. Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
@@ -127,6 +128,8 @@
 - [Введение в GitLab CI](https://habr.com/ru/companies/softmart/articles/309380/)
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
+- **Курсы**
+  - [Jenkins На Русском Языке. YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a) 
 
 ### Docker
 - [Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
@@ -160,7 +163,9 @@
   - [Flexbox Froggy. Тренажёр](https://flexboxfroggy.com/#ru)
 
 ### Automation
+- [Python CheatSheet](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
 - [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
+- [Public APIs](https://github.com/public-apis/public-apis)
 - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
 - [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/articles/549450/)
 
@@ -197,6 +202,7 @@
 - [QA_bible. VladislavEremeev](https://github.com/VladislavEremeev/QA_bible)
 - [Большой учебник по тестированию. QaRocks](https://qarocks.ru/big-software-testing-textbook/?amp=1)
 - [Список книг (по тестированию и не только) с отзывами](https://okiseleva.blogspot.com/2014/02/blog-post_6.html?m=1)
+- [Топ-14 книг для тестировщика на русском языке](https://qarocks.ru/14-books-for-qa-in-russian/?amp=1)
 - [Современный учебник JavaScript](https://learn.javascript.ru/)
 
 ### YouTube
