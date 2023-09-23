@@ -189,6 +189,7 @@
 ### Книги
 - [QA_bible. VladislavEremeev](https://github.com/VladislavEremeev/QA_bible)
 - [Большой учебник по тестированию. QaRocks](https://qarocks.ru/big-software-testing-textbook/?amp=1)
+- [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
 - [Современный учебник JavaScript](https://learn.javascript.ru/)
 
 ### YouTube
