@@ -58,14 +58,14 @@
 - [LinuxCommand.org](http://linuxcommand.org/)
 - [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
 - **Курсы**
-  - [Введение в Linux. Stepik](https://stepik.org/course/73/info)
-  - [Основы командной строки. Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
-  - [Введение в сетевые технологии. Stepik](https://stepik.org/course/58678/info)
-  - [Introduction to Linux. freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-linux/)
-  - [The Linux Foundation: Introduction to Linux. edX](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux)
-  - [Hands-on Introduction to Linux Commands and Shell Scripting. Coursera](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
+  - [Введение в Linux | Stepik](https://stepik.org/course/73/info)
+  - [Основы командной строки | Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
+  - [Введение в сетевые технологии | Stepik](https://stepik.org/course/58678/info)
+  - [Introduction to Linux | freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-linux/)
+  - [The Linux Foundation: Introduction to Linux | edX](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux)
+  - [Hands-on Introduction to Linux Commands and Shell Scripting | Coursera](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
   - [Linux Journey](https://linuxjourney.com/)
-  - [Free CCNA 200-301 | Complete Course 2023. YouTube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+  - [Free CCNA 200-301 | Complete Course 2023 | YouTube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 ### Сети
  - #### Сетевые протоколы
@@ -110,11 +110,11 @@
 - [SQL to MongoDB Mapping Chart](https://www.mongodb.com/docs/manual/reference/sql-comparison/)
 - [Online SQL to MongoDB Converter Tool](https://www.javainuse.com/sql2mongo)
 - **Курсы**
-  - [Курс по SQL для начинающих. EngineerSpock - IT & программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
-  - [Интерактивный курс по SQL. SQL Academy](https://sql-academy.org/ru/guide)
-  - [Интерактивный тренажер по SQL. Stepik](https://stepik.org/course/63054/info)
+  - [Курс по SQL для начинающих | EngineerSpock - IT & программирование | YouTube](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
+  - [Интерактивный курс по SQL | SQL Academy](https://sql-academy.org/ru/guide)
+  - [Интерактивный тренажер по SQL | Stepik](https://stepik.org/course/63054/info)
   - [SQL-Ex](https://www.sql-ex.ru/?Lang=0)
-  - [SQL Tutorial. W3Schools](https://www.w3schools.com/sql/default.asp)
+  - [SQL Tutorial | W3Schools](https://www.w3schools.com/sql/default.asp)
   - [PostgreSQL Exercises](https://pgexercises.com/questions/basic/)
     
 ### Брокеры сообщений, cистемы очередей
@@ -129,16 +129,16 @@
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
 - **Курсы**
-  - [Jenkins На Русском Языке. YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a) 
+  - [Jenkins На Русском Языке | ADV-IT | YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a) 
 - #### Docker
   - [Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
   - [Руководство по Docker Compose для начинающих](https://habr.com/ru/companies/ruvds/articles/450312/)
   - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
   - [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
   - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
-  - [Docker с 0 до 100%. Всё, что нужно знать. RomNero](https://www.youtube.com/watch?v=O8N1lvkIjig)
+  - [Docker с 0 до 100%. Всё, что нужно знать | RomNero](https://www.youtube.com/watch?v=O8N1lvkIjig)
   - **Курсы**
-    - [Docker для начинающих + практический опыт. Stepik](https://stepik.org/course/123300/info)
+    - [Docker для начинающих + практический опыт | Stepik](https://stepik.org/course/123300/info)
 - #### Kubernetes
   - [Основы Kubernetes](https://habr.com/ru/articles/258443/)
   - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
@@ -146,7 +146,7 @@
   - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
   - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
   - **Курсы**
-    - [Kubernetes для пользователей. Stepik](https://stepik.org/course/99188/info)
+    - [Kubernetes для пользователей | Stepik](https://stepik.org/course/99188/info)
   
 ### WEB
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
@@ -156,17 +156,17 @@
 - [Макеты Figma для практики](https://t.me/true_figma)
 - [Для чего нужны UTM-метки](https://tilda.education/articles-how-to-use-utm-url#:~:text=UTM%2D%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20%E2%80%93%20%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE%20%D1%80%D0%BE%D0%B4%D0%B0%20%D1%82%D0%B5%D0%B3%D0%B8,%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BE%20%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.)
 - **Курсы**
-  - [Бесплатный курс по HTML: обучение html верстке для начинающих. Code Basics](https://code-basics.com/ru/languages/html)
-  - [Бесплатный курс CSS: онлайн обучение с нуля. Code Basics](https://code-basics.com/ru/languages/css)
-  - [Flexbox Froggy. Тренажёр](https://flexboxfroggy.com/#ru)
+  - [Бесплатный курс по HTML: обучение html верстке для начинающих | Code Basics](https://code-basics.com/ru/languages/html)
+  - [Бесплатный курс CSS: онлайн обучение с нуля | Code Basics](https://code-basics.com/ru/languages/css)
+  - [Flexbox Froggy | Тренажёр](https://flexboxfroggy.com/#ru)
 
 ### Automation
 - [Python CheatSheet](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
 - [Паттерны проектирования в автоматизации тестирования](https://habr.com/ru/companies/jugru/articles/338836/)
 - [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
-- [Public APIs](https://github.com/public-apis/public-apis)
-- [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
-- [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/articles/549450/)
+- API для автоматизации
+  - [Public APIs](https://github.com/public-apis/public-apis)
+  - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
 
 ### Собеседование
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
