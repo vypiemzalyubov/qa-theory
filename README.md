@@ -217,6 +217,7 @@
 - [Simple Automation](https://www.youtube.com/@simple_automation)
 - [Oleh Pendrak](https://www.youtube.com/@threadqa)
 - [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka)
+- [Ulbi TV](https://www.youtube.com/@UlbiTV)
 - [Listen IT](https://www.youtube.com/@ListenIT_channel)
 - [Alex QA](https://www.youtube.com/@AlexQA)
 - [Serhii Hlivinskyi - QA START UP](https://www.youtube.com/@QASTARTUPITTrainingCenter)
