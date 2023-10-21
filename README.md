@@ -8,6 +8,7 @@
 
 
 ### Виды тестирования
+- [Теория тестирования от А до Я | IT Blog by Ilarion Halushka](https://ilarionhalushka.github.io/testing-theory)
 - [Виды и типы тестирования: подробный разбор](https://testengineer.ru/vidy-tipy-testirovaniya/)
 - [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
 - [Типы тестирования](https://beqa.pro/blog/testing-types/)
