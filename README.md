@@ -215,6 +215,7 @@
 - [Вадим Ксендзов](https://www.youtube.com/@vadim_ksendzov)
 - [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock)
 - [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk)
+- [Владилен Минин](https://www.youtube.com/@VladilenMinin)
 - [Simple Automation](https://www.youtube.com/@simple_automation)
 - [Oleh Pendrak](https://www.youtube.com/@threadqa)
 - [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka)
