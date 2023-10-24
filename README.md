@@ -172,6 +172,7 @@
 ### Собеседование
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
 - [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
+- [Вопросы с собеседований | Easyoffer](https://easyoffer.ru/)
 - [QA Roadmap](https://roadmap.sh/qa)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [Что должен знать тестировщик бэкенда](https://habr.com/ru/articles/491188/)
