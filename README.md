@@ -14,6 +14,7 @@
 - [Типы тестирования](https://beqa.pro/blog/testing-types/)
 - [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
 - [A/B тест — это просто](https://habr.com/ru/articles/233911/)
+- [Buddy testing и Pair testing](http://okiseleva.blogspot.com/2020/10/buddy-testing-pair-testing.html)
 - [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
 
 ### Тестовая документация
