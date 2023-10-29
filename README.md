@@ -16,6 +16,8 @@
 - [A/B тест — это просто](https://habr.com/ru/articles/233911/)
 - [Buddy testing и Pair testing](http://okiseleva.blogspot.com/2020/10/buddy-testing-pair-testing.html)
 - [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
+- [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://habr.com/ru/articles/358142/)
+- [Санитарное тестирование (sanity testing) — небольшой гайд](https://testengineer.ru/sanity-testirovaniye/)
 
 ### Тестовая документация
 - **Тестирование API**
