@@ -73,6 +73,7 @@
 
 ### Сети
  - #### Сетевые протоколы
+   - [Основы Интернета](https://habr.com/ru/articles/709210/)
    - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
    - [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
    - [TCP и UDP, или Два столпа Интернета](https://habr.com/ru/articles/711578/)
