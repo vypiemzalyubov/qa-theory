@@ -194,7 +194,6 @@
 - [Редактируем CSV-файлы, чтобы не сломать данные](https://habr.com/ru/amp/publications/432906/)
 - [Регулярные выражения (regexp) — основы](https://habr.com/ru/articles/545150/)
 - [«HTTP Strict-Transport-Security» или как обезопасить себя от атак «man-in-the-middle» и заставить браузер всегда использовать HTTPS](https://habr.com/ru/articles/216751/)
-- [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
 - [Человеческим языком про метрики \[1-4\]](https://habr.com/ru/companies/tochka/articles/683608/)
 - [QA-метрики: когда они могут быть полезны и как их использовать](https://habr.com/ru/companies/yandex/articles/741966/)
 - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
@@ -203,6 +202,8 @@
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
 - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
 - [Архитектура ЭВМ | Industrial Software Engineering Online](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
+- [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
+- [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/articles/340146/)
 
 ### Книги
 - [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
