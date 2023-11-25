@@ -202,7 +202,6 @@
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
 - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
-- [Архитектура ЭВМ | Industrial Software Engineering Online](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
 - [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
 - [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/articles/340146/)
 
@@ -237,3 +236,4 @@
 - [Диджитализируй!](https://www.youtube.com/@t0digital)
 - [The Art of Development](https://www.youtube.com/@TheArtofDevelopment)
 - [Kirill Semaev](https://www.youtube.com/@KirillSemaev)
+- [Архитектура ЭВМ | Industrial Software Engineering Online | YouTube](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
