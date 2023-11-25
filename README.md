@@ -33,6 +33,8 @@
   - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
   - [Тестирование реляционных баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3267-testing-with-relational-databases)
   - [Тестирование баз данных. Getbug](http://getbug.ru/testirovanie-baz-dannyih/)
+- **Тестирование безопасности**
+  - [Эффективный поиск XSS-уязвимостей](https://2019.heisenbug-piter.ru/2019/spb/talks/4ujtqddxog5gekizpaxjza/) 
 - **Тестирование мобильных приложений**
   - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
   - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
