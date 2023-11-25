@@ -213,7 +213,8 @@
 - [Большой учебник по тестированию. QaRocks](https://qarocks.ru/big-software-testing-textbook/?amp=1)
 - [Список книг (по тестированию и не только) с отзывами](https://okiseleva.blogspot.com/2014/02/blog-post_6.html?m=1)
 - [Топ-14 книг для тестировщика на русском языке](https://qarocks.ru/14-books-for-qa-in-russian/?amp=1)
-- [Современный учебник JavaScript](https://learn.javascript.ru/)
+- [Современный учебник JavaScript | learn.javascript.ru](https://learn.javascript.ru/)
+- [MDN Web Docs | Mozilla Developer Network](https://developer.mozilla.org/ru/)
 - [Учебник по YAML](http://www.brotherhoodofforsaken.network/2021/03/02/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-yaml/)
 
 ### YouTube
