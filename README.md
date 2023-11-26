@@ -204,6 +204,7 @@
 - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
 - [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
 - [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/articles/340146/)
+- [Про хранение паролей в БД](https://habr.com/ru/companies/acribia/articles/413157/)
 
 ### Книги
 - [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
