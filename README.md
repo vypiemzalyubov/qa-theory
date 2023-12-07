@@ -169,8 +169,11 @@
 
 ### Automation
 - [Python CheatSheet](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
-- [Паттерны проектирования в автоматизации тестирования](https://habr.com/ru/companies/jugru/articles/338836/)
 - [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
+- [Паттерны проектирования в автоматизации тестирования](https://habr.com/ru/companies/jugru/articles/338836/)
+- [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
+- [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
+- [The Architect's Blueprint: 10 архитектурных стилей программного обеспечения и их паттерны](https://systems.education/software_styles_and_patterns_with_cheatsheet)
 - API для автоматизации
   - [Public APIs](https://github.com/public-apis/public-apis)
   - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
@@ -198,8 +201,6 @@
 - [Человеческим языком про метрики \[1-4\]](https://habr.com/ru/companies/tochka/articles/683608/)
 - [QA-метрики: когда они могут быть полезны и как их использовать](https://habr.com/ru/companies/yandex/articles/741966/)
 - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
-- [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
-- [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
 - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
 - [OAuth 2.0 простым и понятным языком](https://habr.com/ru/companies/vk/articles/115163/)
