@@ -65,6 +65,7 @@
 - [LinuxCommand.org](http://linuxcommand.org/)
 - [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
 - **Курсы**
+  - [Linux E bash Курс | Владислав Арт | YouTube](https://www.youtube.com/playlist?app=desktop&list=PL8jIzbooWPdU5eGYZSaICE6Ux4qBlZSGq&si=xSCJ9yhgt8-4gwBn)
   - [Введение в Linux | Stepik](https://stepik.org/course/73/info)
   - [Основы командной строки | Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
   - [Введение в сетевые технологии | Stepik](https://stepik.org/course/58678/info)
