@@ -160,6 +160,7 @@
   
 ### WEB
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
+- [Рендеринг в Интернете](https://web.dev/articles/rendering-on-the-web?hl=ru)
 - [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habr.com/ru/articles/313938/)
 - [Figma. Paper Tiger's tips on developer handoff](https://www.figma.com/best-practices/tips-on-developer-handoff/)
 - [Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
