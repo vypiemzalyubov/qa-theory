@@ -97,6 +97,7 @@
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
 - [REST API Best Practices](https://habr.com/ru/articles/351890/)
 - [REST, что же ты такое?](https://systems.education/what-is-rest)
+- [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/companies/yandex/articles/442762/)
   
 ### Базы данных, SQL и NoSQL
 - [Основы правил проектирования базы данных](https://habr.com/ru/articles/514364/)
