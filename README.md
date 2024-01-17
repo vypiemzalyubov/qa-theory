@@ -212,6 +212,7 @@
 - [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/articles/340146/)
 - [Про хранение паролей в БД](https://habr.com/ru/companies/acribia/articles/413157/)
 - [Как ты реализуешь аутентификацию, приятель?](https://habr.com/ru/companies/vk/articles/343288/)
+- [Chrome DevTools: Хитрости при отладке](https://habr.com/ru/articles/587146/)
 
 ### Книги
 - [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
