@@ -193,6 +193,7 @@
 - [Hard skills для входа в тестирование бэка](https://habr.com/ru/companies/inpglobal/articles/733380/)
 - [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
+- [Шпаргалка для алгособеса — алгоритмическая сложность, структуры данных, методы сортировки и Дейкстра](https://habr.com/ru/articles/794556/)
 
 ### Другое
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
