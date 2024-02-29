@@ -24,6 +24,9 @@
 - **Тестирование API**
   - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
   - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
+  - [Тестирование gRPC](https://habr.com/ru/companies/otus/articles/699616/)
+  - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
+  - [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/)
 - **Тестирование UI**
   - [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
   - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
