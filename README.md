@@ -25,8 +25,6 @@
   - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
   - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
   - [Тестирование gRPC](https://habr.com/ru/companies/otus/articles/699616/)
-  - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
-  - [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/)
 - **Тестирование UI**
   - [Тестирование GUI: мини-гайд](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
   - [Гайд по тестированию локализации и интернационализации, а также большой и полезный checklist](https://habr.com/ru/articles/532836/)
@@ -182,6 +180,8 @@
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
 - [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
 - [The Architect's Blueprint: 10 архитектурных стилей программного обеспечения и их паттерны](https://systems.education/software_styles_and_patterns_with_cheatsheet)
+- [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
+- [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/)
 - API для автоматизации
   - [Public APIs](https://github.com/public-apis/public-apis)
   - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
