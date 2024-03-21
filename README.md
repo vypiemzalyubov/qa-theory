@@ -89,6 +89,8 @@
    - [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
    - [Whois: практическое руководство пользователя](https://habr.com/ru/articles/165869/)
    - [Алгоритмы балансировки нагрузок](https://habr.com/ru/companies/ruvds/articles/732648/)
+   - [Основы функционирования компьютерных сетей: адреса, подсети](https://vk.com/@farandwide-osnovy-funkcionirovaniya-komputernyh-setei-adresa-podseti)
+   - [Основы функционирования компьютерных сетей: модель OSI, стек TCP/IP](https://vk.com/@farandwide-osnovy-funkcionirovaniya-komputernyh-setei-model-osi-stek-tc)
  - #### CDN
    - [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
    - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
