@@ -153,6 +153,7 @@
   - [Docker с 0 до 100%. Всё, что нужно знать | RomNero](https://www.youtube.com/watch?v=O8N1lvkIjig)
   - **Курсы**
     - [Docker для начинающих + практический опыт | Stepik](https://stepik.org/course/123300/info)
+    - [Docekr c yekz | Karpov Courses](https://karpov.courses/docker?_gl=1*8eurqv*_ga*ODMzNjY1OTY0LjE3MDc0OTk5Mjk.*_ga_DZP7KEXCQQ*MTcxMTI4ODg3My41LjEuMTcxMTI4OTAzMS4zMy4wLjA.)
 - #### Kubernetes
   - [Основы Kubernetes](https://habr.com/ru/articles/258443/)
   - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
