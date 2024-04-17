@@ -253,3 +253,4 @@
 - [The Art of Development](https://www.youtube.com/@TheArtofDevelopment)
 - [Kirill Semaev](https://www.youtube.com/@KirillSemaev)
 - [Архитектура ЭВМ | Industrial Software Engineering Online | YouTube](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
+- [Траблшутим микросервисы | Mentorpiece Ru](https://www.youtube.com/playlist?list=PL_ovKsSUN6BV7ju91qrzQbEEDRX-57r-g)
