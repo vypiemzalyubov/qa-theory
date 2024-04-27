@@ -149,7 +149,8 @@
   - [Руководство по Docker Compose для начинающих](https://habr.com/ru/companies/ruvds/articles/450312/)
   - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
   - [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
-  - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении](https://www.youtube.com/watch?v=4sFcaTd10lU)
+  - [Docker — не то, чем кажется](https://habr.com/ru/companies/cdnnow/articles/809481/)
+  - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении | RomNero](https://www.youtube.com/watch?v=4sFcaTd10lU)
   - [Docker с 0 до 100%. Всё, что нужно знать | RomNero](https://www.youtube.com/watch?v=O8N1lvkIjig)
   - **Курсы**
     - [Docker для начинающих + практический опыт | Stepik](https://stepik.org/course/123300/info)
