@@ -165,6 +165,7 @@
     - [Kubernetes для пользователей | Stepik](https://stepik.org/course/99188/info)
   
 ### WEB
+- [Как работают браузеры](https://web.dev/articles/howbrowserswork?hl=ru)
 - [Server-Side Rendering с нуля до профи](https://habr.com/ru/articles/527310/)
 - [Рендеринг в Интернете](https://web.dev/articles/rendering-on-the-web?hl=ru)
 - [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habr.com/ru/articles/313938/)
