@@ -44,6 +44,7 @@
 - [Тестовая документация и анализ требований](https://habr.com/ru/companies/otus/articles/588923/)
 
 ### Техники тест-дизайна
+- [Карты, деньги, каталог: используем граничные значения на практике](https://habr.com/ru/companies/petrovich-tech/articles/828840/)
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
 
 ### Методологии разработки
