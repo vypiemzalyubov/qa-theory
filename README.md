@@ -19,6 +19,7 @@
 - [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://habr.com/ru/articles/358142/)
 - [Санитарное тестирование (sanity testing) — небольшой гайд](https://testengineer.ru/sanity-testirovaniye/)
 - [Guerrilla testing](https://dodonut.com/design/guerrilla-testing/)
+- [Что такое Shift Left Testing?](https://qarocks.ru/shift-left-testing/)
 
 ### Тестовая документация
 - **Тестирование API**
