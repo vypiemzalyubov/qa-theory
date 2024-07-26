@@ -20,6 +20,7 @@
 - [Санитарное тестирование (sanity testing) — небольшой гайд](https://testengineer.ru/sanity-testirovaniye/)
 - [Guerrilla testing](https://dodonut.com/design/guerrilla-testing/)
 - [Что такое Shift Left Testing?](https://qarocks.ru/shift-left-testing/)
+- [Сочетание Shift-Left и «Традиционной» модели тестирования в будние дни QA](https://habr.com/ru/companies/cian/articles/654067/)
 
 ### Тестовая документация
 - **Тестирование API**
