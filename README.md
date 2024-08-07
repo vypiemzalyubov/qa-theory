@@ -183,6 +183,7 @@
   - [Flexbox Froggy | Тренажёр](https://flexboxfroggy.com/#ru)
 
 ### Automation
+- [Чек-лист перехода в автоматизацию](https://lilovayakorova.notion.site/10b9121ab4c54b2289c41136de64ed39)
 - [Python CheatSheet](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
 - [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
 - [Паттерны проектирования в автоматизации тестирования](https://habr.com/ru/companies/jugru/articles/338836/)
