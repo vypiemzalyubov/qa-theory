@@ -229,6 +229,7 @@
 - [Как ты реализуешь аутентификацию, приятель?](https://habr.com/ru/companies/vk/articles/343288/)
 - [Chrome DevTools: Хитрости при отладке](https://habr.com/ru/articles/587146/)
 - [Лидерство в тестировании | Paul Gerrard](https://habr.com/ru/search/?q=paulgerard_leadership&target_type=posts&order=relevance)
+- [System Design 101](https://habr.com/ru/articles/770564/comments/)
 
 ### Книги
 - [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
