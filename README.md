@@ -23,6 +23,9 @@
 - [Сочетание Shift-Left и «Традиционной» модели тестирования в будние дни QA](https://habr.com/ru/companies/cian/articles/654067/)
 
 ### Тестовая документация
+- [Тестовая документация и анализ требований](https://habr.com/ru/companies/otus/articles/588923/)
+- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+- [Как тестировщики могут использовать LLM (на примере ChatGPT и Copilot) в своей повседневной работе](https://testgrow.ru/article42)
 - **Тестирование API**
   - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
   - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
@@ -42,8 +45,6 @@
 - **Тестирование мобильных приложений**
   - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
   - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
-- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
-- [Тестовая документация и анализ требований](https://habr.com/ru/companies/otus/articles/588923/)
 
 ### Техники тест-дизайна
 - [Карты, деньги, каталог: используем граничные значения на практике](https://habr.com/ru/companies/petrovich-tech/articles/828840/)
