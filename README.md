@@ -99,6 +99,8 @@
    - [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
    - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
    - [Модуль Nchan веб-сервера nginx. Работа с Websocket, EventSource (Server-Sent Events), Long-Polling](https://habr.com/ru/articles/354990/)
+- **Курсы**
+  - [Сети Для Самых Маленьких](https://linkmeup.gitbook.io/sdsm) 
 
 ### API
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
