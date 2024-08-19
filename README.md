@@ -69,7 +69,7 @@
 - [Управление службами Linux](https://losst.pro/upravlenie-sluzhbami-linux)
 - [LinuxCommand.org](http://linuxcommand.org/)
 - [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
-- **Курсы**
+- #### Курсы
   - [Linux E bash Курс | Владислав Арт | YouTube](https://www.youtube.com/playlist?app=desktop&list=PL8jIzbooWPdU5eGYZSaICE6Ux4qBlZSGq&si=xSCJ9yhgt8-4gwBn)
   - [Введение в Linux | Stepik](https://stepik.org/course/73/info)
   - [Основы командной строки | Хекслет](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
@@ -99,7 +99,7 @@
    - [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
    - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
    - [Модуль Nchan веб-сервера nginx. Работа с Websocket, EventSource (Server-Sent Events), Long-Polling](https://habr.com/ru/articles/354990/)
-- **Курсы**
+- #### Курсы
   - [Сети Для Самых Маленьких](https://linkmeup.gitbook.io/sdsm) 
 
 ### API
@@ -129,7 +129,7 @@
 - [MongoDB или как разлюбить SQL](https://habr.com/ru/articles/74144/)
 - [SQL to MongoDB Mapping Chart](https://www.mongodb.com/docs/manual/reference/sql-comparison/)
 - [Online SQL to MongoDB Converter Tool](https://www.javainuse.com/sql2mongo)
-- **Курсы**
+- #### Курсы
   - [Курс по SQL для начинающих | EngineerSpock - IT & программирование | YouTube](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
   - [Интерактивный курс по SQL | SQL Academy](https://sql-academy.org/ru/guide)
   - [Интерактивный тренажер по SQL | Stepik](https://stepik.org/course/63054/info)
@@ -148,7 +148,7 @@
 - [Введение в GitLab CI](https://habr.com/ru/companies/softmart/articles/309380/)
 - [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
 - [Сине-зеленый деплой](https://habr.com/ru/articles/309832/)
-- **Курсы**
+- #### Курсы
   - [Jenkins На Русском Языке | ADV-IT | YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a) 
 - #### Docker
   - [Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
@@ -158,7 +158,7 @@
   - [Docker — не то, чем кажется](https://habr.com/ru/companies/cdnnow/articles/809481/)
   - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении | RomNero | YouTube](https://www.youtube.com/watch?v=4sFcaTd10lU)
   - [Docker с 0 до 100%. Всё, что нужно знать | RomNero | YouTube](https://www.youtube.com/watch?v=O8N1lvkIjig)
-  - **Курсы**
+  - #### Курсы
     - [Docker для начинающих + практический опыт | Stepik](https://stepik.org/course/123300/info)
     - [Docekr c yekz | Karpov Courses](https://karpov.courses/docker?_gl=1*8eurqv*_ga*ODMzNjY1OTY0LjE3MDc0OTk5Mjk.*_ga_DZP7KEXCQQ*MTcxMTI4ODg3My41LjEuMTcxMTI4OTAzMS4zMy4wLjA.)
 - #### Kubernetes
@@ -167,7 +167,7 @@
   - [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
   - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
   - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
-  - **Курсы**
+  - #### Курсы
     - [Kubernetes для пользователей | Stepik](https://stepik.org/course/99188/info)
   
 ### WEB
@@ -180,7 +180,7 @@
 - [Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
 - [Макеты Figma для практики](https://t.me/true_figma)
 - [Для чего нужны UTM-метки](https://tilda.education/articles-how-to-use-utm-url#:~:text=UTM%2D%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20%E2%80%93%20%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE%20%D1%80%D0%BE%D0%B4%D0%B0%20%D1%82%D0%B5%D0%B3%D0%B8,%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BE%20%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.)
-- **Курсы**
+- #### Курсы
   - [Бесплатный курс по HTML: обучение html верстке для начинающих | Code Basics](https://code-basics.com/ru/languages/html)
   - [Бесплатный курс CSS: онлайн обучение с нуля | Code Basics](https://code-basics.com/ru/languages/css)
   - [Flexbox Froggy | Тренажёр](https://flexboxfroggy.com/#ru)
@@ -195,7 +195,7 @@
 - [The Architect's Blueprint: 10 архитектурных стилей программного обеспечения и их паттерны](https://systems.education/software_styles_and_patterns_with_cheatsheet)
 - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
 - [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/)
-- API для автоматизации
+- #### API для автоматизации
   - [Public APIs](https://github.com/public-apis/public-apis)
   - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
 
