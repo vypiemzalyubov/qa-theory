@@ -193,6 +193,7 @@
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
 - [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
 - [The Architect's Blueprint: 10 архитектурных стилей программного обеспечения и их паттерны](https://systems.education/software_styles_and_patterns_with_cheatsheet)
+- [Refactoring.Guru](https://refactoring.guru/)
 - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
 - [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/)
 - #### API для автоматизации
