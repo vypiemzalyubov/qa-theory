@@ -141,7 +141,7 @@
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
 - [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/companies/yandex_praktikum/articles/700608/)
-- [Построение распределенной системы очередей сообщений с RabbitMQ и Python](https://habr.com/ru/companies/otus/articles/761444/)
+- [Построение распределенной системы очередей сообщений с RabbitMQ и ](https://habr.com/ru/companies/otus/articles/761444/)
 
 ### CI/CD
 - [Что такое CI (Continuous Integration)](https://habr.com/ru/articles/508216/)
@@ -187,7 +187,7 @@
 
 ### Automation
 - [Чек-лист перехода в автоматизацию](https://lilovayakorova.notion.site/10b9121ab4c54b2289c41136de64ed39)
-- [Python CheatSheet](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
+- [Python CheatSheet | wiki](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
 - [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
 - [Паттерны проектирования в автоматизации тестирования](https://habr.com/ru/companies/jugru/articles/338836/)
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
