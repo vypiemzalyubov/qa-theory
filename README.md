@@ -9,6 +9,7 @@
 
 ### Виды тестирования
 - [Теория тестирования от А до Я | IT Blog by Ilarion Halushka](https://ilarionhalushka.github.io/testing-theory)
+- [Принципы тестирования: нас 7](https://habr.com/ru/articles/699990/)
 - [Виды и типы тестирования: подробный разбор](https://testengineer.ru/vidy-tipy-testirovaniya/)
 - [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
 - [Типы тестирования](https://beqa.pro/blog/testing-types/)
@@ -18,7 +19,7 @@
 - [Особенности тестирования "серого ящика"](https://quality-lab.ru/blog/key-principles-of-gray-box-testing/)
 - [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://habr.com/ru/articles/358142/)
 - [Санитарное тестирование (sanity testing) — небольшой гайд](https://testengineer.ru/sanity-testirovaniye/)
-- [Guerrilla testing](https://dodonut.com/design/guerrilla-testing/)
+- [Guerrilla testing | Партизанское тестирование](https://dodonut.com/design/guerrilla-testing/)
 - [Что такое Shift Left Testing?](https://qarocks.ru/shift-left-testing/)
 - [Сочетание Shift-Left и «Традиционной» модели тестирования в будние дни QA](https://habr.com/ru/companies/cian/articles/654067/)
 
