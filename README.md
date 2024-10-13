@@ -197,6 +197,7 @@
 - [Refactoring.Guru](https://refactoring.guru/)
 - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
 - [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/)
+- [Как работать с Kafka в автотестах?](https://telegra.ph/Kak-rabotat-s-Kafka-v-avtotestah-10-07)
 - #### API для автоматизации
   - [Public APIs](https://github.com/public-apis/public-apis)
   - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
