@@ -117,6 +117,8 @@
 - [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)
 - [Что такое транзакция](https://habr.com/ru/articles/537594/)
 - [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)
+- [Как устроено индексирование баз данных](https://habr.com/ru/companies/ruvds/articles/724066/)
+- [Как привести данные в форму: что такое нормализация и зачем она нужна](https://practicum.yandex.ru/blog/chto-takoe-normalizaciya-dannyh/?)
 - [NoSQL: виды, особенности и применение](https://telegra.ph/NoSQL-vidy-osobennosti-i-primenenie-08-05)
 - [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/companies/oleg-bunin/articles/309330/)
 - [JSONB запросы в PostgreSQL](https://habr.com/ru/articles/254425/)
