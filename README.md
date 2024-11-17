@@ -198,6 +198,7 @@
 - [The Architect's Blueprint: 10 архитектурных стилей программного обеспечения и их паттерны](https://systems.education/software_styles_and_patterns_with_cheatsheet)
 - [Refactoring.Guru](https://refactoring.guru/)
 - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
+- [Работа с gRPC в автотестировании](https://telegra.ph/Rabota-s-gRPC-v-avtotestirovanii-11-08)
 - [Как работать с Kafka в автотестах?](https://telegra.ph/Kak-rabotat-s-Kafka-v-avtotestah-10-07)
 - #### API для автоматизации
   - [Public APIs](https://github.com/public-apis/public-apis)
