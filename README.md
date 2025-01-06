@@ -22,6 +22,7 @@
 - [Guerrilla testing | Партизанское тестирование](https://dodonut.com/design/guerrilla-testing/)
 - [Что такое Shift Left Testing?](https://qarocks.ru/shift-left-testing/)
 - [Сочетание Shift-Left и «Традиционной» модели тестирования в будние дни QA](https://habr.com/ru/companies/cian/articles/654067/)
+- [Цикл статей на основе перевода книги Ли Копланда "A Practitioner's Guide to Software Test Design"](https://t.me/pro_qa/78)
 
 ### Тестовая документация
 - [Тестовая документация и анализ требований](https://habr.com/ru/companies/otus/articles/588923/)
