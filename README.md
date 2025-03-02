@@ -84,19 +84,15 @@
 
 ### Сети
  - #### Сетевые протоколы
-   - [Основы Интернета](https://habr.com/ru/articles/709210/) | [TCP и UDP, или Два столпа Интернета](https://habr.com/ru/articles/711578/)
-   - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/)
+   - [Основы Интернета](https://habr.com/ru/articles/709210/)
+   - [Сложно о простом. Как работает интернет. Часть 1. Что такое коммутатор, маршрутизатор и примеры работы простых сетей](https://habr.com/ru/companies/timeweb/articles/871308/)
+   - [Сетевые протоколы: базовые понятия и описание самых востребованных правил](https://selectel.ru/blog/network-protocols/) | [Основы компьютерных сетей. Тема №3. Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/articles/308636/)
    - [Простым языком об HTTP](https://habr.com/ru/articles/215117/)
-   - [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP)
-   - [TCP против UDP или будущее сетевых протоколов](https://habr.com/ru/companies/oleg-bunin/articles/461829/)
-   - [Когда TCP быстрее UDP](https://habr.com/ru/companies/ruvds/articles/598615/)
-   - [Основы компьютерных сетей. Тема №3. Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/articles/308636/)
-   - [На замену TCP: обсуждение протокола QUIC](https://habr.com/ru/companies/vasexperts/articles/509630/)
-   - [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
+   - [TCP vs UDP](https://github.com/vypiemzalyubov/qa-theory/wiki/TCP-vs-UDP) | [TCP и UDP, или Два столпа Интернета](https://habr.com/ru/articles/711578/) | [TCP против UDP или будущее сетевых протоколов](https://habr.com/ru/companies/oleg-bunin/articles/461829/) | [Когда TCP быстрее UDP](https://habr.com/ru/companies/ruvds/articles/598615/)
+   - [На замену TCP: обсуждение протокола QUIC](https://habr.com/ru/companies/vasexperts/articles/509630/) | [Транспортный протокол QUIC приняли в качестве стандарта RFC 9000](https://habr.com/ru/companies/globalsign/articles/560342/)
+   - [Основы функционирования компьютерных сетей: адреса, подсети](https://vk.com/@farandwide-osnovy-funkcionirovaniya-komputernyh-setei-adresa-podseti) | [Основы функционирования компьютерных сетей: модель OSI, стек TCP/IP](https://vk.com/@farandwide-osnovy-funkcionirovaniya-komputernyh-setei-model-osi-stek-tc)
    - [Whois: практическое руководство пользователя](https://habr.com/ru/articles/165869/)
    - [Алгоритмы балансировки нагрузок](https://habr.com/ru/companies/ruvds/articles/732648/)
-   - [Основы функционирования компьютерных сетей: адреса, подсети](https://vk.com/@farandwide-osnovy-funkcionirovaniya-komputernyh-setei-adresa-podseti)
-   - [Основы функционирования компьютерных сетей: модель OSI, стек TCP/IP](https://vk.com/@farandwide-osnovy-funkcionirovaniya-komputernyh-setei-model-osi-stek-tc)
  - #### CDN
    - [Amazon Web Services - CloudFront](https://github.com/vypiemzalyubov/qa-theory/wiki/Amazon-Web-Services-%E2%80%93-CloudFront)
    - [Настраиваем CloudFront для работы с S3](https://habr.com/ru/articles/45081/)
