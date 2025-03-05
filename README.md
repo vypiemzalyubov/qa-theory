@@ -6,6 +6,7 @@
 
 ### [Виды тестирования](https://github.com/vypiemzalyubov/qa-theory#%D0%B2%D0%B8%D0%B4%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) | [Тестовая документация](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F) | [Техники тест-дизайна](https://github.com/vypiemzalyubov/qa-theory#%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8-%D1%82%D0%B5%D1%81%D1%82-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0) | [Методологии разработки](https://github.com/vypiemzalyubov/qa-theory#%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8) | [Linux](https://github.com/vypiemzalyubov/qa-theory#linux) | [Сети](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%81%D0%B5%D1%82%D0%B8) | [API](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#api) | [Базы данных, SQL и NoSQL](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-sql-%D0%B8-nosql) | [Брокеры сообщений, cистемы очередей](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80%D1%8B-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9-c%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%B9) | [CI/CD](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#cicd) | [WEB](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#web) | [Automation](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#automation) | [Собеседование](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | [Другое](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B5) | [Книги](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8) | [YouTube](https://github.com/vypiemzalyubov/qa-theory/blob/main/README.md#youtube)
 
+---
 
 ### Виды тестирования
 - [Теория тестирования от А до Я | IT Blog by Ilarion Halushka](https://ilarionhalushka.github.io/testing-theory)
@@ -23,6 +24,8 @@
 - [Что такое Shift Left Testing?](https://qarocks.ru/shift-left-testing/)
 - [Сочетание Shift-Left и «Традиционной» модели тестирования в будние дни QA](https://habr.com/ru/companies/cian/articles/654067/)
 - [Цикл статей на основе перевода книги Ли Копланда "A Practitioner's Guide to Software Test Design"](https://t.me/pro_qa/78)
+
+---
 
 ### Тестовая документация
 - [Тестовая документация и анализ требований](https://habr.com/ru/companies/otus/articles/588923/)
@@ -48,9 +51,16 @@
   - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
   - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
 
+---
+
 ### Техники тест-дизайна
+- [Тест-дизайн: быстрый практикум](https://testengineer.ru/test-design-techniques-on-examples/)
 - [Карты, деньги, каталог: используем граничные значения на практике](https://habr.com/ru/companies/petrovich-tech/articles/828840/)
 - [Decision Table — что это и как применять](https://habr.com/ru/articles/546432/)
+- #### Курсы
+  - [Багаж тестировщика: техники тест-дизайна](https://stepik.org/course/218257/syllabus)
+
+---
 
 ### Методологии разработки
 - [Как методологии разработки программного обеспечения влияют на запуск IT-проекта?](https://leantech.ai/metodologii-razrabotki-programmnogo-obespecheniya)
@@ -59,6 +69,8 @@
 - [Trunk Based Development - кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)
 - [Что такое поведенческая разработка (BDD)?](https://www.loadview-testing.com/ru/blog/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-bdd/)
 - [Опыт использования BDD](https://habr.com/ru/companies/haulmont/articles/459134/)
+
+---
 
 ### Linux
 - [Самые полезные приёмы работы в командной строке Linux](https://habr.com/ru/companies/ruvds/articles/323330/)
@@ -82,6 +94,8 @@
   - [Linux Journey](https://linuxjourney.com/)
   - [Free CCNA 200-301 | Complete Course 2023 | YouTube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
+---
+
 ### Сети
  - #### Сетевые протоколы
    - [Основы Интернета](https://habr.com/ru/articles/709210/)
@@ -100,12 +114,16 @@
 - #### Курсы
   - [Сети Для Самых Маленьких](https://linkmeup.gitbook.io/sdsm) 
 
+---
+
 ### API
 - [API. Бесплатная электронная книга](https://twirl.github.io/The-API-Book/index.ru.html)
 - [REST API Best Practices](https://habr.com/ru/articles/351890/)
 - [REST, что же ты такое?](https://systems.education/what-is-rest)
 - [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/companies/yandex/articles/442762/)
-  
+
+---
+
 ### Базы данных, SQL и NoSQL
 - [Основы правил проектирования базы данных](https://habr.com/ru/articles/514364/)
 - [Руководство по проектированию реляционных баз данных (15 частей)](https://habr.com/ru/articles/193136/)
@@ -136,13 +154,17 @@
   - [SQL-Ex](https://www.sql-ex.ru/?Lang=0)
   - [SQL Tutorial | W3Schools](https://www.w3schools.com/sql/default.asp)
   - [PostgreSQL Exercises](https://pgexercises.com/questions/basic/)
-    
+
+---
+
 ### Брокеры сообщений, cистемы очередей
 - [Соседняя очередь всегда движется быстрее](https://habr.com/ru/companies/oleg-bunin/articles/579354/)
 - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
 - [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/companies/yandex_praktikum/articles/700608/)
 - [Kafka: Что это такое и как тестировать](https://testgrow.ru/article45)
 - [Что такое RabbitMQ и как его тестировать?](https://testgrow.ru/article51)
+
+---
 
 ### CI/CD
 - [Что такое CI (Continuous Integration)](https://habr.com/ru/articles/508216/)
@@ -170,7 +192,9 @@
   - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
   - #### Курсы
     - [Kubernetes для пользователей | Stepik](https://stepik.org/course/99188/info)
-  
+
+---
+
 ### WEB
 - [Как работают браузеры](https://web.dev/articles/howbrowserswork?hl=ru)
 - [Как браузер рисует страницы](https://doka.guide/tools/how-the-browser-creates-pages/)
@@ -186,6 +210,8 @@
   - [Бесплатный курс по HTML: обучение html верстке для начинающих | Code Basics](https://code-basics.com/ru/languages/html)
   - [Бесплатный курс CSS: онлайн обучение с нуля | Code Basics](https://code-basics.com/ru/languages/css)
   - [Flexbox Froggy | Тренажёр](https://flexboxfroggy.com/#ru)
+
+---
 
 ### Automation
 - [Чек-лист перехода в автоматизацию](https://lilovayakorova.notion.site/10b9121ab4c54b2289c41136de64ed39)
@@ -203,6 +229,8 @@
   - [Public APIs](https://github.com/public-apis/public-apis)
   - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
 
+---
+
 ### Собеседование
 - [Собеседование с QA. 250+ вопросов для Junior, Middle, Senior](https://itvdn.com/ru/blog/article/250-questions-qa)
 - [QA_Interview_Questions](https://github.com/RomE-HK/QA_Interview_Questions)
@@ -214,6 +242,8 @@
 - [Чек-лист подготовки к собеседованию на позицию ручного web-тестировщика](https://habr.com/ru/companies/renins/articles/564522/)
 - [10 занимательных задач](https://habr.com/ru/articles/228489/)
 - [Шпаргалка для алгособеса — алгоритмическая сложность, структуры данных, методы сортировки и Дейкстра](https://habr.com/ru/articles/794556/)
+
+---
 
 ### Другое
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/companies/htmlacademy/articles/254825/)
@@ -238,6 +268,8 @@
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
 - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
 
+---
+
 ### Книги
 - [100-Year QA-Textbook](https://mentorpiece.ru/textbook/)
 - [QA_bible. VladislavEremeev](https://github.com/VladislavEremeev/QA_bible)
@@ -247,6 +279,8 @@
 - [Современный учебник JavaScript | learn.javascript.ru](https://learn.javascript.ru/)
 - [MDN Web Docs | Mozilla Developer Network](https://developer.mozilla.org/ru/)
 - [Учебник по YAML](http://www.brotherhoodofforsaken.network/2021/03/02/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-yaml/)
+
+---
 
 ### YouTube
 - [Heisenbug](https://www.youtube.com/@Heisenbugconf)
