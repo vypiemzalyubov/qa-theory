@@ -180,6 +180,7 @@
   - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/southbridge/articles/329138/)
   - [Docker CheatSheet](https://github.com/vypiemzalyubov/docker/blob/main/docker_cheatsheet.md)
   - [Docker — не то, чем кажется](https://habr.com/ru/companies/cdnnow/articles/809481/)
+  - [Docker изнутри: исчерпывающее руководство. Механизмы контейнеризации + примеры, эксперименты и реализация](https://habr.com/ru/articles/935178/)
   - [Traefik V2. Reverse Proxy и LoadBalancer для контейнеров в динамическом окружении | RomNero | YouTube](https://www.youtube.com/watch?v=4sFcaTd10lU)
   - [Docker с 0 до 100%. Всё, что нужно знать | RomNero | YouTube](https://www.youtube.com/watch?v=O8N1lvkIjig)
   - #### Курсы
