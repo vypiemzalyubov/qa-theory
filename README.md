@@ -229,6 +229,7 @@
 - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/)
 - [Работа с gRPC в автотестировании](https://telegra.ph/Rabota-s-gRPC-v-avtotestirovanii-11-08)
 - [Как работать с Kafka в автотестах?](https://telegra.ph/Kak-rabotat-s-Kafka-v-avtotestah-10-07)
+- [Refactoring.Guru](https://refactoring.guru/)
 - [Python CheatSheet | wiki](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
 - [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/)
 - #### API для автоматизации
