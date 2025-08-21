@@ -270,6 +270,7 @@
 - [Про хранение паролей в БД](https://habr.com/ru/companies/acribia/articles/413157/)
 - [Как ты реализуешь аутентификацию, приятель?](https://habr.com/ru/companies/vk/articles/343288/)
 - [Chrome DevTools: Хитрости при отладке](https://habr.com/ru/articles/587146/)
+- [Тестируем производительность фронтенда через вкладку Performance в DevTools](https://habr.com/ru/companies/sberbank/articles/937334/)
 - [Kibana. Использование языка запросов KQL при поиске логов](https://habr.com/ru/articles/758586/)
 - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
 - [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
