@@ -232,6 +232,7 @@
 - [Refactoring.Guru](https://refactoring.guru/)
 - [Python CheatSheet | wiki](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
 - [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/)
+- [Сидинг тестовых данных: как готовить окружение перед нагрузочным тестированием](https://habr.com/ru/articles/934568/)
 - #### API для автоматизации
   - [Public APIs](https://github.com/public-apis/public-apis)
   - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
