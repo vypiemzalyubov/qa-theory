@@ -272,9 +272,10 @@
 - [Chrome DevTools: Хитрости при отладке](https://habr.com/ru/articles/587146/)
 - [Тестируем производительность фронтенда через вкладку Performance в DevTools](https://habr.com/ru/companies/sberbank/articles/937334/)
 - [Kibana. Использование языка запросов KQL при поиске логов](https://habr.com/ru/articles/758586/)
-- [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
-- [Links-QA](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
-- [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
+- [Links-QA](https://github.com/KazeKaze93/QA-Theory/blob/master/Links/Links.md)
+- #### Тесты и тренажеры:
+  - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
+  - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
 
 ---
 
