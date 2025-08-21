@@ -269,10 +269,12 @@
 - [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/articles/340146/)
 - [Про хранение паролей в БД](https://habr.com/ru/companies/acribia/articles/413157/)
 - [Как ты реализуешь аутентификацию, приятель?](https://habr.com/ru/companies/vk/articles/343288/)
-- [Chrome DevTools: Хитрости при отладке](https://habr.com/ru/articles/587146/)
-- [Тестируем производительность фронтенда через вкладку Performance в DevTools](https://habr.com/ru/companies/sberbank/articles/937334/)
 - [Kibana. Использование языка запросов KQL при поиске логов](https://habr.com/ru/articles/758586/)
 - [Links-QA](https://github.com/KazeKaze93/QA-Theory/blob/master/Links/Links.md)
+- #### DevTools
+  - [Chrome DevTools: Хитрости при отладке](https://habr.com/ru/articles/587146/)
+  - [Подмена входящего трафика: скрытые, но крайне полезные фичи браузера Chrome](https://habr.com/ru/companies/sberbank/articles/923888/)
+  - [Тестируем производительность фронтенда через вкладку Performance в DevTools](https://habr.com/ru/companies/sberbank/articles/937334/)
 - #### Тесты и тренажеры:
   - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
   - [Тесты и тренажеры для тестировщиков](https://www.learnqa.ru/tests)
