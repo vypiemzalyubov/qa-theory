@@ -55,6 +55,8 @@
 - **Тестирование мобильных приложений**
   - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/articles/534190/)
   - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://telegra.ph/Testirovanie-bezopasnosti-mobilnogo-prilozheniya-standartnye-kejsy-pri-regresse-08-02)
+- **A/B тестирование**
+  - [Методичка по AB-тестированию от аналитиков Авито](https://habr.com/ru/companies/avito/articles/936804/) 
 
 ---
 
