@@ -35,6 +35,7 @@
   - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/articles/568360/)
   - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
   - [Тестирование gRPC](https://habr.com/ru/companies/otus/articles/699616/)
+  - [gRPC для тестировщика: быстрый старт после REST](https://habr.com/ru/articles/953694/)
   - [Как тестировать WebSocket](https://testgrow.ru/article32)
   - [Как тестировать не-REST-бекэнд. Часть первая, GraphQL](https://habr.com/ru/companies/qiwi/articles/743518/)
   - [Как тестировать не-REST-бэкенд. Часть вторая, WebSocket](https://habr.com/ru/companies/qiwi/articles/747604/)
