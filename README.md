@@ -196,7 +196,8 @@
 - #### Kubernetes
   - [Основы Kubernetes](https://habr.com/ru/articles/258443/)
   - [Руководство по Kubernetes](https://habr.com/ru/companies/ruvds/articles/438982/)
-  - [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
+  - [Kubernetes на пальцах: самое простое объяснение, что это такое](https://habr.com/ru/companies/selectel/articles/956266/)
+  - [Kubernetes на Русском Языке | ADV-IT | YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
   - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
   - [Обзор графических интерфейсов для Kubernetes](https://habr.com/ru/companies/flant/articles/506948/)
   - #### Курсы
