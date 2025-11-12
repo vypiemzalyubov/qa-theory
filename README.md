@@ -226,6 +226,7 @@
 - [Чек-лист перехода в автоматизацию](https://lilovayakorova.notion.site/10b9121ab4c54b2289c41136de64ed39)
 - [Как вырасти из Manual QA в Automation: пошаговый план](https://habr.com/ru/articles/932374/)
 - [Automated Backend testing solutions architecture in Python ecosystem with examples](https://drive.google.com/file/d/1OWOd0gC0H7yMmHfldpGhdQbZ9JYigxrS/view?pli=1)
+- [Паттерны проектирования для автотестов: от теории к практике](https://habr.com/ru/articles/951452/)
 - [Паттерны проектирования в автоматизации тестирования](https://habr.com/ru/companies/jugru/articles/338836/)
 - [Пожалуй, лучшая архитектура для UI тестов](https://habr.com/ru/companies/protei/articles/523802/)
 - [Как событийно-ориентированная архитектура решает проблемы современных веб-приложений](https://habr.com/ru/companies/piter/articles/530514/)
@@ -235,10 +236,11 @@
 - [Как работать с Kafka в автотестах?](https://telegra.ph/Kak-rabotat-s-Kafka-v-avtotestah-10-07)
 - [Refactoring.Guru](https://refactoring.guru/)
 - [Python CheatSheet | wiki](https://github.com/vypiemzalyubov/python/blob/main/python_cheatsheet.md)
-- [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/)
-- [Сидинг тестовых данных: как готовить окружение перед нагрузочным тестированием](https://habr.com/ru/articles/934568/)
-- [Тренажеры для НТ](https://t.me/qa_load/96302/124122)
-- [Killercoda | Learn DevOps Linux Kubernetes CKS CKA CKAD Git Linux Programming](https://killercoda.com/)
+- #### Load Testing
+  - [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/)
+  - [Сидинг тестовых данных: как готовить окружение перед нагрузочным тестированием](https://habr.com/ru/articles/934568/)
+  - [Тренажеры для НТ](https://t.me/qa_load/96302/124122)
+  - [Killercoda | Learn DevOps Linux Kubernetes CKS CKA CKAD Git Linux Programming](https://killercoda.com/)
 - #### API для автоматизации
   - [Public APIs](https://github.com/public-apis/public-apis)
   - [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
