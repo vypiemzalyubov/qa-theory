@@ -280,6 +280,7 @@
 - [Как ты реализуешь аутентификацию, приятель?](https://habr.com/ru/companies/vk/articles/343288/)
 - [Kibana. Использование языка запросов KQL при поиске логов](https://habr.com/ru/articles/758586/)
 - [Links-QA](https://github.com/KazeKaze93/QA-Theory/blob/master/Links/Links.md)
+- [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 - #### DevTools
   - [Chrome DevTools: Хитрости при отладке](https://habr.com/ru/articles/587146/)
   - [Подмена входящего трафика: скрытые, но крайне полезные фичи браузера Chrome](https://habr.com/ru/companies/sberbank/articles/923888/)
